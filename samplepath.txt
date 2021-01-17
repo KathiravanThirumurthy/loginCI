@@ -1,0 +1,2 @@
+http://localhost/ci3/api/user
+http://localhost/ci3/api/getpage
